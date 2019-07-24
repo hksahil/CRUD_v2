@@ -1,0 +1,21 @@
+1.Multer image uploader
+2.Ajax based Sorting
+3.Login System
+4.File downloader
+
+
+css scraped
+ <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/starter-template/">
+<link rel="stylesheet" href="/css/custom.css">
+    <!-- Bootstrap core CSS -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet"> <!--//similar to public/css/bootstrap.min.css-->
+
+    <!-- Custom styles for this template -->
+    <link href="/css/starter-template.css" rel="stylesheet">
+       <!-- Custom styles for search bar -->
+       <link href="/css/search.css" rel="stylesheet">
+      
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+      
+      <!-- Custom styles for Footer -->
+       <link href="/css/Footer-with-button-logo.css" rel="stylesheet">
